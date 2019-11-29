@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    >
+
+    <item
+        android:id="@+id/action_fa4"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/action_fa5"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/action_fa6"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/action_fa7"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/action_fa8"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/action_fa9"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/action_fa1"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/action_fa2"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"></item>
+
+</menu>
