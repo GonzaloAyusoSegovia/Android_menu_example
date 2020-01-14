@@ -1,0 +1,7 @@
+diff --git a/lmao b/lmao
+deleted file mode 100644
+index 3eafe91..0000000
+--- a/lmao
++++ /dev/null
+@@ -1 +0,0 @@
+-bruh
